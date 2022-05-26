@@ -5,6 +5,6 @@ public class Test {
     private String cuil;
     private String dni;
     private String edadPersona;
-    private String newAlgo;
+    private String newAlgoModificado;
     private String celular;
 }
