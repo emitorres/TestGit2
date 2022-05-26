@@ -4,7 +4,7 @@ public class Test {
     private String direccion;
     private String cuil;
     private String dni;
-    private String edad2;
-    private String algoModificado2;
-    private String telefono;
+    private String edadPersona;
+    private String newAlgo;
+    private String celular;
 }
