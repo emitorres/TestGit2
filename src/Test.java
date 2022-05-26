@@ -7,4 +7,5 @@ public class Test {
     private String edad;
     private String algo;
     private String telefono;
+    private String algo;
 }
