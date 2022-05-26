@@ -1,6 +1,6 @@
 public class Test {
-    private String nombre;
-    private String apellido;
+    private String nombre1;
+    private String apellido1;
     private String direccion;
     private String cuil;
     private String dni;
