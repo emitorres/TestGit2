@@ -4,4 +4,5 @@ public class Test {
     private String direccion;
     private String cuit;
     private String dni;
+    private String edad;
 }
