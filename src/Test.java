@@ -1,10 +1,10 @@
 public class Test {
-    private String nombre1;
-    private String apellido1;
+    private String nombre;
+    private String apellido;
     private String direccion;
     private String cuil;
     private String dni;
     private String edad;
     private String estado;
-    private String celularTelefono;
+    private String celular;
 }
