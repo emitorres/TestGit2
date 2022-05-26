@@ -5,7 +5,8 @@ public class Test {
     private String cuil;
     private String dni;
     private String edad;
-    private String telefono;
     private String estado;
+    private String telefono;
+    private String valor;
     private String nuevo;
 }
