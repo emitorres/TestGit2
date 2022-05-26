@@ -1,7 +1,7 @@
 public class Test {
     private String nombre;
     private String apellido;
-    private String direc;
+    private String direccion;
     private String cuil;
     private String dni;
     private String edad;
