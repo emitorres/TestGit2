@@ -5,6 +5,6 @@ public class Test {
     private String cuil;
     private String dni1;
     private String edad1;
-    private String algo1;
-    private String telefono1;
+    private String algo;
+    private String tele;
 }
