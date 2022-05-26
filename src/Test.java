@@ -3,8 +3,8 @@ public class Test {
     private String apellido;
     private String direccion;
     private String cuil;
-    private String dni1;
-    private String edad1;
+    private String dni;
+    private String edad;
     private String algo;
-    private String tele;
+    private String telefono;
 }
