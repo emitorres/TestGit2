@@ -6,5 +6,5 @@ public class Test {
     private String dni;
     private String edad;
     private String algo1;
-    private String telefono;
+    private String celular;
 }
