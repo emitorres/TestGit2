@@ -6,5 +6,5 @@ public class Test {
     private String dni;
     private String edad;
     private String estado;
-    private String celular;
+    private String telefono;
 }
