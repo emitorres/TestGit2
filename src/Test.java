@@ -2,6 +2,8 @@ public class Test {
     private String Nombre;
     private String Apellido;
     private String Direccion;
+    private String ramab;
+    private String ramabb;
 
     public String getNombre() {
         return Nombre;
