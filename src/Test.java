@@ -2,6 +2,7 @@ public class Test {
     private String Nombre;
     private String Apellido;
     private String Direccion;
+    private String nuevoAtri;
 
     public String getNombre() {
         return Nombre;
