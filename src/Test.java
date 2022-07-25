@@ -3,6 +3,7 @@ public class Test {
     private String Apellido;
     private String Direccion;
     private String nuevoAtri;
+    private String atributoB;
 
     public String getNombre() {
         return Nombre;
