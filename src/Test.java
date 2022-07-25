@@ -4,7 +4,7 @@ public class Test {
     private String Direccion;
     private String ramab;
     private String ramabb;
-
+    private String ramabb1;
     public String getNombre() {
         return Nombre;
     }
